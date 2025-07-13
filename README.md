@@ -1,8 +1,4 @@
 
-
-### ✅ Final `README.md` – Copy and Paste This:
-
-````markdown
 # 📚 Book Scraper
 
 A Python web scraping project that extracts book information from [Books to Scrape](http://books.toscrape.com) — a public sandbox site designed for learning.  
